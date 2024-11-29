@@ -1,5 +1,5 @@
 
-# Kyphosis Disease Classification
+#AI FOR DIAGNOSIS
 
 This repository contains a Python script that classifies the presence of kyphosis (a spinal condition) based on patient data, using machine learning techniques.
 
